@@ -8,4 +8,12 @@
 # Reinforcement Learning
 In each epoch performance is observed , some workers and clients are run and
 according to this observation Q tabel is updated reward is calculated then the new action allocates resourses to workers
-<img src=images/image3.png" width=450 > 
+<img src="image3.jpg" width=450 > 
+# Load balancing for CPU
+It is one of the open issues that OS developers face (it is actually a hot issue thesedays for papers) , related to distribution of tasks between processing units in operating system
+
+<img src="image1.jpeg" width=350 >
+
+
+RL can play a significant role in associating these jobs , resulting in less time consumption
+<img src="image2.jpg" width=450 >
